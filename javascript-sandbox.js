@@ -44,3 +44,14 @@ let bear = {
     noisy: true,
     deadly: true
 };
+
+let penguin = {
+    genus: "ursus",
+    species: "arctos",
+    commonName: "brown bear",
+    callType: "roar",
+    quote: "",
+    maxOffspring: 3,
+    noisy: true,
+    deadly: true
+};
